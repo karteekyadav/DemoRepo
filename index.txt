@@ -1,0 +1,18 @@
+
+Explain OOPs Principles ?
+
+Explain the implementation of Abstraction?
+
+What is static keyword ?
+
+What are primitive data types in java ?
+
+Explain about wrapper classes ?
+
+Explain about heap memory and stack memory ?
+
+Explain about Exception Handling ?
+
+Define and how implement throw and throws keyword in java 
+
+When to use final keyword in java ?
